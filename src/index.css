@@ -13,6 +13,9 @@ code {
     monospace;
 }
 
-img{
+.myimg img{
   width: 500px;
+  height: 500px;
+  box-shadow: 0 0 28 28 blue inset;
+  border: solid; 
 }
