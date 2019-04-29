@@ -6,7 +6,7 @@ const Travel = (props) => {
     <figure>
       <img src={image} alt={destination} />
       <figcaption>
-        <h1>{country}</h1>
+          <h1>{country}</h1>
         <h2>{destination}</h2>
         <h2>{distance}</h2>  
       </figcaption>
